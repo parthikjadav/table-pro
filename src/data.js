@@ -1,0 +1,2 @@
+export let row_data =[[{ name: 'product', id: 10 }, { name: 'product', id: 11 }, { name: 'product', id: 12 }], [{ name: 'product', id: 20 }, { name: 'product', id: 21 }, { name: 'product', id: 22 }], [{ name: 'product', id: 30 }, { name: 'product', id: 31 }, { name: 'product', id: 32 }]]
+export let col_data = [{ name: 'Product name', id: 1 }, { name: 'Product name', id: 2 }, { name: 'Product name', id: 3 }]
